@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple project for a Full Stack web course. The website for this project is live on heroku, which you can check out by [clicking here.](https://simple-fitness-tracker.herokuapp.com/)
+This is a simple project for a Full Stack web course. The website for this project is live on heroku, which you can check out by [clicking here.](https://salty-basin-41673.herokuapp.com/)
 
 ## Installation
 
