@@ -40,4 +40,4 @@ There are currently no tests for this app.
 
 ## **Deployed Application**
 
-![Deployed Application](https://salty-basin-41673.herokuapp.com/)
+[Deployed Application](https://salty-basin-41673.herokuapp.com/)
